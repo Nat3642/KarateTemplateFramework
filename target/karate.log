@@ -466,3 +466,32 @@ classpath:examples/group/Variables.feature:25
   }
 ]
  
+10:28:22.266 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+10:28:23.339 [main] INFO  com.intuit.karate - karate.env system property was: null 
+10:28:23.413 [main] INFO  com.intuit.karate - [print] [
+  {
+    "id": 13,
+    "name": "Jaimie",
+    "gender": "Female",
+    "phone": 7842554879
+  },
+  {
+    "id": 27,
+    "name": "Jeanelle",
+    "gender": "Female",
+    "phone": 6662999903
+  },
+  {
+    "id": 50,
+    "name": "Jennica",
+    "gender": "Female",
+    "phone": 6986436734
+  },
+  {
+    "id": 67,
+    "name": "Janette",
+    "gender": "Female",
+    "phone": 9887020445
+  }
+]
+ 

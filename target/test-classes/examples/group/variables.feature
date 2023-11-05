@@ -20,7 +20,7 @@ Feature: Learning print statement
     """
     * print oneSpartan.name
 
-
+@wip
     Scenario: Read a data from a file
       When def spartans = read("classpath:examples/testData/testData.json")
       * print spartans
